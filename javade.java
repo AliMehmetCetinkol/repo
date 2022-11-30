@@ -3,3 +3,8 @@ class javade{
         System.out.println("denedim oldu...");
     }
 }
+class mample{
+    public static void foo(){
+        System.out.println("asd eklendi...");
+    }
+}
